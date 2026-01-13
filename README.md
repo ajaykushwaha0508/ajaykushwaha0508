@@ -67,14 +67,14 @@ I'm a **MERN Stack Developer** specializing in **Development, DevOps** from 🇮
 </div>
  -->
 
----
+
 
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykushwaha0508&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
----
+
 
 <!--## 🌐 Connect With Me
 
@@ -84,8 +84,7 @@ I'm a **MERN Stack Developer** specializing in **Development, DevOps** from 🇮
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
 [![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
  -->
-<!-- </div> -->
-
+<!-- </div> 
 ---
 
 <!-- <div align="center">
