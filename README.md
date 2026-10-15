@@ -29,6 +29,7 @@ I'm a **MERN Stack Developer** specializing in **Development, DevOps** from 🇮
   <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   <img  src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
   <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="angular" width="40" height="40"/>
+  <img  src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="angular" width="40" height="40"/>
 </p>
 
 ### **Cloud & DevOps**
